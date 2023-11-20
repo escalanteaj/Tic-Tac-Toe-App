@@ -1,5 +1,7 @@
 # Tic Tac Toe Game in Python with Tkinter
 
+![Tic Tac Toe Screenshot](https://github.com/escalanteaj/Tic-Tac-Toe-App/blob/master/Screenshot%202023-11-20%20175403.png?raw=true)
+
 This is a simple Tic Tac Toe game implemented in Python using Tkinter for the graphical user interface. Players take turns placing their respective marks ('X' or 'O') on a 3x3 grid. The game tracks wins for each player and ties.
 
 ## Features
